@@ -185,3 +185,4 @@ while run:
             asteroids.add(asterod)
 
     time.delay(60)
+    #mtfkgtohjtroto
